@@ -542,7 +542,7 @@ src/rc/Debian/pdnsd
 src/rc/Slackware/Makefile
 src/rc/Slackware/rc.pdnsd
 src/rc/ArchLinux/Makefile
-src/rc/ArchLinux/pdnsd
+src/rc/ArchLinux/pdnsd.service
 src/test/Makefile
 PKGBUILD
 ])
